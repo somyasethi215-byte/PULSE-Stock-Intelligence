@@ -4,9 +4,8 @@ A modern Streamlit stock-analysis demo with a dark visual theme, animated hero t
 
 ## Run on Windows / VS Code
 
-1. Extract the ZIP and open the `Stock-Price-Predictor-Modern` folder in VS Code.
-2. Open Terminal → New Terminal.
-3. Activate your existing Python environment if it already has working dependencies. Otherwise, Python 3.12 is recommended:
+1. Open Terminal → New Terminal.
+2. Activate your existing Python environment if it already has working dependencies. Otherwise, Python 3.12 is recommended:
    ```powershell
    py -3.12 -m venv .venv
    .\.venv\Scripts\Activate.ps1
